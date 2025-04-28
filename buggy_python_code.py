@@ -1,7 +1,7 @@
 import sys
 import os
-import yaml
 import flask
+import yaml
 
 app = flask.Flask(__name__)
 
